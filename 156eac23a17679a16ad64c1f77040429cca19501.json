@@ -8999,21 +8999,6 @@
             }
           ]
         }
-        // {
-        //   "tileId": "TIPS",
-        //   "iconName": "ICON_TIPS",
-        //   "title": "Tips",
-        //   "color": "NORM",
-        //   "tileType": "C",
-        //   "actions": [
-        //     {
-        //       "actionId": "VIEW_TIPS",
-        //       "title": "View Tips",
-        //       "dynamic": true,
-        //       "seq": 1
-        //     }
-        //   ]
-        // }
       ]
     },
     "/myit/tips": {
